@@ -1,0 +1,162 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #333;
+    }
+
+    .header {
+      background-color: #333;
+      border-radius: 80px;
+      color: #fff;
+      padding: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .header h1 {
+      margin: 0;
+    }
+    .hero h3 {
+      color: rgb(255, 72, 0);
+    }
+    .hero h4 {
+      color: rgb(89, 89, 194);}
+
+    .hero {
+      margin-left: 140px;
+      margin-top: 20px;
+      background-size: cover;
+      background-position: center;
+      height: 500px;
+    /*display: flex;*/
+      align-items: center;
+      justify-content: center;
+    }
+
+    .hero h1 {
+      color: #100f0f;
+      font-size: 48px;
+      margin: 0;
+    }
+
+    .nav {
+      margin-top: 0px;
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .nav ul li {
+      display: inline-block;
+      margin-right: 15px;
+    }
+
+    .nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .section {
+      padding: 50px;
+      text-align: center;
+    }
+
+    .section h2 {
+      margin: 0;
+    }
+
+    .section p {
+      margin-bottom: 30px;
+    }
+
+    .section .button {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    .section .button:hover {
+      background-color: #555;
+    }
+
+    .footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    #msge{
+      margin-left: 180px;
+      margin-top:99px;
+    }
+    #projects{
+      
+    }
+    #projects .card{
+      align-items: center;
+      margin-top:20px;
+      margin-left:90px;
+      
+
+    }
+    #projects h2{
+      background-color: #100f0f;
+      color: rgb(240, 239, 239);
+      border-radius: 80px;
+
+      }
+    #skills h2{
+    background-color: #100f0f;
+    color: rgb(240, 239, 239);
+    border-radius: 80px;
+
+    }
+    .container{
+      margin-bottom: 0px;
+    }
+    #skill{
+      margin-bottom:9px;
+    }
+    #skills ul li{
+      text-indent: 9px;
+      color: #100f0f;
+      margin-right: 90px;
+      margin-top: 9px;
+      margin-bottom: 4px;
+      list-style:none;
+      font-size: medium;
+      text-align:center;
+    }
+    #about h2{
+      background-color: #100f0f;
+      color: #fff;
+      border-radius: 80px;
+
+    }
+.hd{display: flex;
+color: #100f0f;}
+    
+    .hd img {
+      margin-top: 90px;
+
+      height: 200px;
+      width: 190px;
+    }
+
+    .project {
+      display: flex;
+    }
